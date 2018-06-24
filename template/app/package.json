@@ -3,6 +3,6 @@
     "v8Flags": "--expose_gc"
   },
   "main": "app.js",
-  "name": "hkdse-math",
+  "name": "hkdse-math-formula-app",
   "version": "1.0.0"
 }
