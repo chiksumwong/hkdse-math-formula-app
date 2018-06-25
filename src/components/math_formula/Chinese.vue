@@ -6,7 +6,7 @@
 
     <Scrollview>
       <StackLayout class="home-panel">
-        <listView class="list-group" for="chapter in chapters" @itemTap="onItemTap" style="height:3000px"> 
+        <listView class="list-group" for="chapter in chapters" @itemTap="onItemTap" style="height:3500px"> 
           <v-template>
             <FlexboxLayout flexDirection="row" class="list-group-item">
               <Label :text="chapter.title" class="list-group-item-heading" style="width: 60%"/>
@@ -27,99 +27,99 @@ import Formula from'./Formula';
       return {
         chapters:[
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元二",
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元三"
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元四"
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元五"
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元六"
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元七"
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元八"
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元九"
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元十"
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元十一"
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元十二"
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元十三"
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元十四"
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元十五"
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元十六"
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元十七"
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元十八"
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元十九"
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元二十"
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元二十一"
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元二十二"
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元二十三"
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元二十四"
           },
           {
-            imagePath: "~/math_formula/chinese/c2.png",
+            imagePath: "~\HKDSE_MATH_FORMULA\CHINESE_VERSION\CHAPTER2.png",
             title: "單元二十五"
           }
         ]

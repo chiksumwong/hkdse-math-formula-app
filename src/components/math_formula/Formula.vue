@@ -5,7 +5,7 @@
     </ActionBar>
 
       <StackLayout>
-        <Image :src="this.item.imageSrc" stretch="fill"/>
+        <Image :src="this.item.imagePath" stretch="fill"/>
       </StackLayout>
 
   </Page>
@@ -28,6 +28,11 @@
             console.log("Back");
             this.$navigateBack();
         }
+    },
+    
+    mounted () {
+      console.log(this.item.title);
+      console.log(this.item.imagePath);
     }
   };
 </script>
