@@ -6,7 +6,7 @@
 
     <StackLayout>
       <FlexboxLayout flexDirection="row" justifyContent="center">
-        <Label text="This is Chinese Version Page" class="h1"/>
+        <Label text="Comming Soon !" class="h1"/>
       </FlexboxLayout>
     </StackLayout>
 
