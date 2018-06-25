@@ -1,11 +1,11 @@
 <template>
   <Page class="page">
-    <!-- <ActionBar class="action-bar" title="中文版">
+    <ActionBar class="action-bar" :title="this.item.title">
       <NavigationButton text="Go Back" android.systemIcon="ic_menu_back" @tap="onBackTap"/>
-    </ActionBar> -->
+    </ActionBar>
 
       <StackLayout>
-        <Image :src="this.imageSrc"/>
+        <Image :src="this.item.imageSrc" stretch="fill"/>
       </StackLayout>
 
   </Page>
@@ -14,7 +14,7 @@
 <script>
   export default {
     props: [
-        'imageSrc'
+        'item'
     ],
 
     data () {

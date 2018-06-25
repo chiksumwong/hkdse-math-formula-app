@@ -133,7 +133,7 @@ import Formula from'./Formula';
         this.$navigateTo(Formula, {
           context:{
             propsData:{
-              imageSrc: args.item.imagePath
+              item: args.item
             }
           }
         })
