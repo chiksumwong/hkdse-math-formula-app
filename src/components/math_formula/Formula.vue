@@ -5,7 +5,7 @@
     </ActionBar>
 
       <StackLayout>
-        <Image :src="this.item.imagePath" stretch="fill"/>
+        <Image :src="this.item.imagePath" stretch="none"/>
       </StackLayout>
 
   </Page>
