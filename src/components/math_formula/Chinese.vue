@@ -35,7 +35,7 @@ import Formula from'./Formula';
             title: "單元三"
           },
           {
-            imagePath: "~/images/hkdse_math_formula/chinese_version/chapter2.png",
+            imagePath: "~/images/hkdse_math_formula/chinese_version/chapter4.png",
             title: "單元四"
           },
           {

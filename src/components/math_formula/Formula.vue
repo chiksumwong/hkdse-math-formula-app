@@ -5,8 +5,7 @@
     </ActionBar>
 
       <StackLayout>
-        <Image :src="this.item.imagePath" stretch="fill"/>
-
+        <Image :src="this.item.imagePath" />
       </StackLayout>
 
   </Page>
@@ -20,7 +19,6 @@
 
     data () {
       return {
-        image2: "~/images/hkdse_math_formula/chinese_version/chapter2.png",
       }
     },
 
@@ -30,10 +28,6 @@
             this.$navigateBack();
         }
     },
-    
-    mounted () {
-      console.log(this.item.title);
-      console.log(this.item.imagePath);
-    }
+
   };
 </script>
