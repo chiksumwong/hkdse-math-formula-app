@@ -5,9 +5,7 @@
     </ActionBar>
 
       <StackLayout>
-        <Image :src="image1" stretch="fill"/>
-        <Image :src="image2" stretch="fill"/>
-        <Image :src="image3" stretch="fill"/>
+        <Image :src="this.item.imagePath" stretch="fill"/>
 
       </StackLayout>
 
@@ -22,9 +20,7 @@
 
     data () {
       return {
-        image1: "~/images/NativeScript-Vue.png",
-        image2: "~/images/chapter2.png",
-        image3: "~/images/hkdse_math_formula/chinese_version/chapter2.png",
+        image2: "~/images/hkdse_math_formula/chinese_version/chapter2.png",
       }
     },
 
@@ -38,8 +34,6 @@
     mounted () {
       console.log(this.item.title);
       console.log(this.item.imagePath);
-      console.log(this.image2);
-
     }
   };
 </script>
