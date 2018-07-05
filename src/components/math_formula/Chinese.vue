@@ -20,116 +20,214 @@
 </template>
 
 <script>
-  import Formula from './Formula';
+  import ListFormula from './ListFormula';
 
   export default {
     data() {
       return {
-        chapters: [{
-            imagePath: [
-              "~/images/hkdse_math_formula/chinese_version/2/0.png"
-            ],
+        chapters: [
+          {
             title: "單元二",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+            }]
           },
           {
-            imagePath: [
-              "~/images/hkdse_math_formula/chinese_version/3/0.png",
-              "~/images/hkdse_math_formula/chinese_version/3/1.png",
-              "~/images/hkdse_math_formula/chinese_version/3/2.png",
-              "~/images/hkdse_math_formula/chinese_version/3/3.png",
-              "~/images/hkdse_math_formula/chinese_version/3/4.png",
-            ],
-            title: "單元三"
+            title: "單元三",
+            contents: [{
+                index: "3.1百分變化",
+                imagePath: "~/images/hkdse_math_formula/chinese_version/3/3.1.png"
+              },
+              {
+                index: "3.2利潤及虧蝕",
+                imagePath: "~/images/hkdse_math_formula/chinese_version/3/3.2.png"
+              },
+              {
+                index: "3.3折扣",
+                imagePath: "~/images/hkdse_math_formula/chinese_version/3/3.3.png"
+              },
+              {
+                index: "3.4單利息和複利息",
+                imagePath: "~/images/hkdse_math_formula/chinese_version/3/3.4.png"
+              },
+              {
+                index: "3.5增長及貶值",
+                imagePath: "~/images/hkdse_math_formula/chinese_version/3/3.5.png"
+              },
+            ]
           },
           {
-            imagePath: [
-              "~/images/hkdse_math_formula/chinese_version/2/0.png"
-            ],
-            title: "單元四"
+            title: "單元四",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+
+            }, ]
           },
           {
-            imagePath: ["~/images/hkdse_math_formula/chinese_version/2/0.png"],
-            title: "單元五"
+            title: "單元五",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+
+            }, ]
           },
           {
-            imagePath: ["~/images/hkdse_math_formula/chinese_version/2/0.png"],
-            title: "單元六"
+            title: "單元六",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+
+            }, ]
           },
           {
-            imagePath: ["~/images/hkdse_math_formula/chinese_version/2/0.png"],
-            title: "單元七"
+            title: "單元七",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+
+            }, ]
           },
           {
-            imagePath: ["~/images/hkdse_math_formula/chinese_version/2/0.png"],
-            title: "單元八"
+            title: "單元八",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+
+            }, ]
           },
           {
-            imagePath: ["~/images/hkdse_math_formula/chinese_version/2/0.png"],
-            title: "單元九"
+            title: "單元九",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+
+            }, ]
           },
           {
-            imagePath: ["~/images/hkdse_math_formula/chinese_version/2/0.png"],
-            title: "單元十"
+            title: "單元十",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+
+            }, ]
           },
           {
-            imagePath: ["~/images/hkdse_math_formula/chinese_version/2/0.png"],
-            title: "單元十一"
+            title: "單元十一",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+
+            }, ]
           },
           {
-            imagePath: ["~/images/hkdse_math_formula/chinese_version/2/0.png"],
-            title: "單元十二"
+            title: "單元十二",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+
+            }, ]
           },
           {
-            imagePath: ["~/images/hkdse_math_formula/chinese_version/2/0.png"],
-            title: "單元十三"
+            title: "單元十三",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+
+            }, ]
           },
           {
-            imagePath: ["~/images/hkdse_math_formula/chinese_version/2/0.png"],
-            title: "單元十四"
+            title: "單元十四",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+
+            }, ]
           },
           {
-            imagePath: ["~/images/hkdse_math_formula/chinese_version/2/0.png"],
-            title: "單元十五"
+            title: "單元十五",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+
+            }, ]
           },
           {
-            imagePath: ["~/images/hkdse_math_formula/chinese_version/2/0.png"],
-            title: "單元十六"
+            title: "單元十六",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+
+            }, ]
           },
           {
-            imagePath: ["~/images/hkdse_math_formula/chinese_version/2/0.png"],
-            title: "單元十七"
+            title: "單元十七",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+
+            }, ]
           },
           {
-            imagePath: ["~/images/hkdse_math_formula/chinese_version/2/0.png"],
-            title: "單元十八"
+            title: "單元十八",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+
+            }, ]
           },
           {
-            imagePath: ["~/images/hkdse_math_formula/chinese_version/2/0.png"],
-            title: "單元十九"
+            title: "單元十九",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+
+            }, ]
           },
           {
-            imagePath: ["~/images/hkdse_math_formula/chinese_version/2/0.png"],
-            title: "單元二十"
+            title: "單元二十",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+
+            }, ]
           },
           {
-            imagePath: ["~/images/hkdse_math_formula/chinese_version/2/0.png"],
-            title: "單元二十一"
+            title: "單元二十一",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+            }, ]
           },
           {
-            imagePath: ["~/images/hkdse_math_formula/chinese_version/2/0.png"],
-            title: "單元二十二"
+            title: "單元二十二",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+            }, ]
           },
           {
-            imagePath: ["~/images/hkdse_math_formula/chinese_version/2/0.png"],
-            title: "單元二十三"
+            title: "單元二十三",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+
+            }, ]
           },
           {
-            imagePath: ["~/images/hkdse_math_formula/chinese_version/2/0.png"],
-            title: "單元二十四"
+            title: "單元二十四",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+            }, ]
           },
           {
-            imagePath: ["~/images/hkdse_math_formula/chinese_version/2/0.png"],
-            title: "單元二十五"
+            title: "單元二十五",
+            contents: [{
+              index: "2.誤差",
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+            }]
           }
         ]
       }
@@ -139,13 +237,15 @@
       onItemTap: function (args) {
         console.log('Item with index : ' + args.item.title + ' tapped');
 
-        this.$navigateTo(Formula, {
+        this.$navigateTo(ListFormula, {
           context: {
             propsData: {
-              item: args.item
+              chapters: args.item
             }
           }
         })
+
+        console.log('chinese page : ' + this.chapters)
 
       }
     }
