@@ -200,7 +200,7 @@
             title: "Unit 12 Rate, Ratio and Variation",
             contents: [{
               index: "Rate, Ratio and Variation",
-              imagePath: "~/images/hkdse_math_formula/english_blank/12/12.1.png"
+              imagePath: "~/images/hkdse_math_formula/english_blank/12/12.png"
             } ]
           },
           {
@@ -295,7 +295,7 @@
             title: "Unit 17 Trigonometry II - Applications of Trigonometry",
             contents: [{
               index: "Trigonometry II - Applications of Trigonometry",
-              imagePath: "~/images/hkdse_math_formula/english_blank/17/17.1.png"
+              imagePath: "~/images/hkdse_math_formula/english_blank/17/17.png"
 
             }, ]
           },

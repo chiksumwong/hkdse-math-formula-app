@@ -29,7 +29,7 @@
             title: "單元二 估算",
             contents: [{
               index: "誤差",
-              imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
+              imagePath: "~/images/hkdse_math_formula/chinese_version/2/2.png"
             }]
           },
           {
@@ -173,7 +173,7 @@
 
             },{
               index: "II.	 餘式定理",
-              imagePath: "~/images/hkdse_math_formula/chinese_version/10/10.8.8.png"
+              imagePath: "~/images/hkdse_math_formula/chinese_version/10/10.2.png"
 
             },
             {
@@ -219,7 +219,7 @@
             title: "單元十三 不等式",
             contents: [{
               index: "不等式",
-              imagePath: "~/images/hkdse_math_formula/chinese_version/13/13.1.png"
+              imagePath: "~/images/hkdse_math_formula/chinese_version/13/13.png"
 
             }, ]
           },
@@ -308,7 +308,7 @@
             title: "單元十七 三角學 II	– 三角學應用",
             contents: [{
               index: "三角學 II	– 三角學應用",
-              imagePath: "~/images/hkdse_math_formula/chinese_version/17/17.1.png"
+              imagePath: "~/images/hkdse_math_formula/chinese_version/17/17.png"
 
             }, ]
           },

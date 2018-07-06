@@ -59,25 +59,25 @@
           {
             title: "單元四 求積法",
             contents: [{
-              index: "I.	 扇形",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/4/4.1.png"
+                index: "I.	 扇形",
+                imagePath: "~/images/hkdse_math_formula/chinese_blank/4/4.1.png"
 
-            },
-            {
-              index: "II.	 立體",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/4/4.2.png"
+              },
+              {
+                index: "II.	 立體",
+                imagePath: "~/images/hkdse_math_formula/chinese_blank/4/4.2.png"
 
-            },
-            {
-              index: "III.	 相似平面圖形和立體",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/4/4.3.png"
+              },
+              {
+                index: "III.	 相似平面圖形和立體",
+                imagePath: "~/images/hkdse_math_formula/chinese_blank/4/4.3.png"
 
-            },
-            {
-              index: "IV.	 一樣高的三角形的面積比",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/4/4.4.png"
+              },
+              {
+                index: "IV.	 一樣高的三角形的面積比",
+                imagePath: "~/images/hkdse_math_formula/chinese_blank/4/4.4.png"
 
-            },
+              },
             ]
           },
           {
@@ -86,7 +86,7 @@
               index: "I.	 正多邊形的反射對稱和旋轉對稱",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/5/5.1.png"
 
-            },{
+            }, {
               index: "II.	 正多面體的反射對稱和旋轉對稱",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/5/5.2.png"
 
@@ -95,58 +95,59 @@
           {
             title: "單元六 演繹幾何 I",
             contents: [{
-              index: "I.	 角和平行線 (PART 1)",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/6/6.1.1.png"
+                index: "I.	 角和平行線 (PART 1)",
+                imagePath: "~/images/hkdse_math_formula/chinese_blank/6/6.1.1.png"
 
-            },{
-              index: "I.	 角和平行線 (PART 2)",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/6/6.1.2.png"
+              }, {
+                index: "I.	 角和平行線 (PART 2)",
+                imagePath: "~/images/hkdse_math_formula/chinese_blank/6/6.1.2.png"
 
-            },
-            {
-              index: "II.	 三角形和凸多邊形的角",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/6/6.2.png"
+              },
+              {
+                index: "II.	 三角形和凸多邊形的角",
+                imagePath: "~/images/hkdse_math_formula/chinese_blank/6/6.2.png"
 
-            },
-            {
-              index: "III.相似三角形",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/6/6.3.png"
+              },
+              {
+                index: "III.相似三角形",
+                imagePath: "~/images/hkdse_math_formula/chinese_blank/6/6.3.png"
 
-            },
-            {
-              index: "IV.	 全等三角形 (PART 1)",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/6/6.4.1.png"
+              },
+              {
+                index: "IV.	 全等三角形 (PART 1)",
+                imagePath: "~/images/hkdse_math_formula/chinese_blank/6/6.4.1.png"
 
-            },{
-              index: "IV.	 全等三角形 (PART 2)",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/6/6.4.2.png"
+              }, {
+                index: "IV.	 全等三角形 (PART 2)",
+                imagePath: "~/images/hkdse_math_formula/chinese_blank/6/6.4.2.png"
 
-            },
-            {
-              index: "V.	 平行四邊形 (PART 1)",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/6/6.5.1.png"
+              },
+              {
+                index: "V.	 平行四邊形 (PART 1)",
+                imagePath: "~/images/hkdse_math_formula/chinese_blank/6/6.5.1.png"
 
-            },
-            {
-              index: "V.	 平行四邊形 (PART 2)",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/6/6.5.2.png"
+              },
+              {
+                index: "V.	 平行四邊形 (PART 2)",
+                imagePath: "~/images/hkdse_math_formula/chinese_blank/6/6.5.2.png"
 
-            },
-            {
-              index: "VI.	 畢氏定理",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/6/6.6.png"
+              },
+              {
+                index: "VI.	 畢氏定理",
+                imagePath: "~/images/hkdse_math_formula/chinese_blank/6/6.6.png"
 
-            },
-            {
-              index: "VII.	 中點定理和截線定理",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/6/6.7.png"
+              },
+              {
+                index: "VII.	 中點定理和截線定理",
+                imagePath: "~/images/hkdse_math_formula/chinese_blank/6/6.7.png"
 
-            },
-            {
-              index: "VIII.	 三角形不等式",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/6/6.8.png"
+              },
+              {
+                index: "VIII.	 三角形不等式",
+                imagePath: "~/images/hkdse_math_formula/chinese_blank/6/6.8.png"
 
-            }, ]
+              },
+            ]
           },
           {
             title: "單元七 數系",
@@ -154,7 +155,7 @@
               index: "I.	 根",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/7/7.1.png"
 
-            },{
+            }, {
               index: "II.	 複數",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/7/7.2.png"
 
@@ -163,50 +164,42 @@
           {
             title: "單元八 方程式",
             contents: [{
-              index: "I.一元二次方程",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/8/8.1.png"
+                index: "I.一元二次方程",
+                imagePath: "~/images/hkdse_math_formula/chinese_blank/8/8.1.png"
 
-            },
-            {
-              index: "II.	 根的性質",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/8/8.2.png"
+              },
+              {
+                index: "II.	 根的性質",
+                imagePath: "~/images/hkdse_math_formula/chinese_blank/8/8.2.png"
 
-            },
-            {
-              index: "III.	 根的和及積",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/8/8.3.png"
+              },
+              {
+                index: "III.	 根的和及積",
+                imagePath: "~/images/hkdse_math_formula/chinese_blank/8/8.3.png"
 
-            }, ]
+              },
+            ]
           },
           {
             title: "單元十 多項式",
             contents: [{
-              index: "I.	 因式化",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/10/10.1.png"
-
-            },{
-              index: "II.	 餘式定理",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/10/10.8.8.png"
-
-            },
-            {
-              index: "III.	 因式定理",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/10/10.3.png"
-
-            }, ]
+              index: "I.	 多項式",
+              imagePath: "~/images/hkdse_math_formula/chinese_blank/10/10.png"
+            }]
           },
           {
             title: "單元十一 指數律、 指數函數與對數函數",
             contents: [{
-              index: "I. 指數律",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/11/11.1.png"
+                index: "I. 指數律",
+                imagePath: "~/images/hkdse_math_formula/chinese_blank/11/11.1.png"
 
-            },
-            {
-              index: "II. 對數性質",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/11/11.2.png"
+              },
+              {
+                index: "II. 對數性質",
+                imagePath: "~/images/hkdse_math_formula/chinese_blank/11/11.2.png"
 
-            }, ]
+              },
+            ]
           },
           {
             title: "單元十二 率、比和變分",
@@ -220,22 +213,23 @@
             title: "單元十三 不等式",
             contents: [{
               index: "不等式",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/13/13.1.png"
+              imagePath: "~/images/hkdse_math_formula/chinese_blank/13/13.png"
 
             }, ]
           },
           {
             title: "單元十四 坐標幾何 I",
             contents: [{
-              index: "坐標幾何 I (PART 1)",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/14/14.1.1.png"
+                index: "坐標幾何 I (PART 1)",
+                imagePath: "~/images/hkdse_math_formula/chinese_blank/14/14.1.1.png"
 
-            },
-            {
-              index: "坐標幾何 I (PART 2)",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/14/14.1.2.png"
+              },
+              {
+                index: "坐標幾何 I (PART 2)",
+                imagePath: "~/images/hkdse_math_formula/chinese_blank/14/14.1.2.png"
 
-            }, ]
+              },
+            ]
           },
           {
             title: "單元十五 演繹幾何 I",
@@ -243,39 +237,39 @@
               index: "I.	 圓的弦線 (PART 1)",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/15/15.1.1.png"
 
-            },{
+            }, {
               index: "I.	 圓的弦線 (PART 2)",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/15/15.1.2.png"
 
-            },{
+            }, {
               index: "II.	 圓的角 (PART 1)",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/15/15.2.1.png"
 
-            },{
+            }, {
               index: "II.	 圓的角 (PART 2)",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/15/15.2.2.png"
 
-            },{
+            }, {
               index: "III.	 角、弧和弦線 (PART 1)",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/15/15.3.1.png"
 
-            },{
+            }, {
               index: "III.	 角、弧和弦線 (PART 2)",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/15/15.3.2.png"
 
-            },{
+            }, {
               index: "IV.	 圓內接四邊形 (PART 1)",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/15/15.4.1.png"
 
-            },{
+            }, {
               index: "IV.	 圓內接四邊形 (PART 2)",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/15/15.4.2.png"
 
-            },{
+            }, {
               index: "V.	 切線 (PART 1)",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/15/15.5.1.png"
 
-            },{
+            }, {
               index: "V.	 切線 (PART 2)",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/15/15.5.2.png"
 
@@ -287,19 +281,19 @@
               index: "I.	 定義",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/16/16.1.png"
 
-            },{
+            }, {
               index: "II.	 特殊角的三角比",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/16/16.2.png"
 
-            },{
+            }, {
               index: "III.	 三角比的正負符號",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/16/16.3.png"
 
-            },{
+            }, {
               index: "IV.	 三角比恆等式 (PART 1)",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/16/16.4.1.png"
 
-            },{
+            }, {
               index: "IV.	 三角比恆等式 (PART 2)",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/16/16.4.2.png"
 
@@ -309,7 +303,7 @@
             title: "單元十七 三角學 II	– 三角學應用",
             contents: [{
               index: "三角學 II	– 三角學應用",
-              imagePath: "~/images/hkdse_math_formula/chinese_blank/17/17.1.png"
+              imagePath: "~/images/hkdse_math_formula/chinese_blank/17/17.png"
 
             }, ]
           },
@@ -319,11 +313,11 @@
               index: "重要的圖像",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/18/18.1.1.png"
 
-            },{
+            }, {
               index: "重要的圖像",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/18/18.1.2.png"
 
-            },{
+            }, {
               index: "重要的圖像",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/18/18.1.3.png"
 
@@ -357,16 +351,16 @@
             contents: [{
               index: "I.	 定義",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/22/22.1.png"
-            },{
+            }, {
               index: "II.	 期望值",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/22/22.2.png"
-            },{
+            }, {
               index: "III.	 加法定律",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/22/22.3.png"
-            },{
+            }, {
               index: "IV.	 乘法定律",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/22/22.4.png"
-            },{
+            }, {
               index: "V.	 條件概率",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/22/22.5.png"
             }, ]
@@ -376,7 +370,7 @@
             contents: [{
               index: "I.	 等差數列",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/24/24.1.png"
-            },{
+            }, {
               index: "II.	 等比數列",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/24/24.2.png"
             }, ]
@@ -386,13 +380,13 @@
             contents: [{
               index: "I.	 量度集中趨勢",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/25/25.1.png"
-            },{
+            }, {
               index: "II.	 離差的度量",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/25/25.2.png"
-            },{
+            }, {
               index: "III.	 標準差的應用",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/25/25.3.png"
-            },{
+            }, {
               index: "IV.	 數據的改變",
               imagePath: "~/images/hkdse_math_formula/chinese_blank/25/25.4.png"
             }]
