@@ -28,30 +28,30 @@
         chapters: [{
             title: "單元二 估算",
             contents: [{
-              index: "2.1 誤差",
+              index: "誤差",
               imagePath: "~/images/hkdse_math_formula/chinese_version/2/0.png"
             }]
           },
           {
             title: "單元三 百分比",
             contents: [{
-                index: "3.1 百分變化",
+                index: "I.	 百分變化",
                 imagePath: "~/images/hkdse_math_formula/chinese_version/3/3.1.png"
               },
               {
-                index: "3.2 利潤及虧蝕",
+                index: "II.	 利潤及虧蝕",
                 imagePath: "~/images/hkdse_math_formula/chinese_version/3/3.2.png"
               },
               {
-                index: "3.3 折扣",
+                index: "III.	 折扣",
                 imagePath: "~/images/hkdse_math_formula/chinese_version/3/3.3.png"
               },
               {
-                index: "3.4 單利息和複利息",
+                index: "IV.	 單利息和複利息",
                 imagePath: "~/images/hkdse_math_formula/chinese_version/3/3.4.png"
               },
               {
-                index: "3.5 增長及貶值",
+                index: "V.	 增長及貶值",
                 imagePath: "~/images/hkdse_math_formula/chinese_version/3/3.5.png"
               },
             ]
