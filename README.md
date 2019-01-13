@@ -30,18 +30,43 @@ For detailed instructions, see https://github.com/nativescript-vue/vue-cli-templ
 
 ## App Screen Shot
 <p align='center'>
+<kbd>
 <img src='src/assets/images/app_screen_shot/Screenshot1.jpg' width='100' height='300' alt='screenshot'>
+</kbd>
 </p>
 
+<p align='center'>
+<kbd>
+<img src='src/assets/images/app_screen_shot/Screenshot2.jpg' width='100' height='300' alt='screenshot'>
+</kbd>
+</p>
 
-![](src/assets/images/app_screen_shot/Screenshot2.jpg =100x20)
+<p align='center'>
+<kbd>
+<img src='src/assets/images/app_screen_shot/Screenshot3.jpg' width='100' height='300' alt='screenshot'>
+</kbd>
+</p>
 
-![](src/assets/images/app_screen_shot/Screenshot3.jpg)
+<p align='center'>
+<kbd>
+<img src='src/assets/images/app_screen_shot/Screenshot4.jpg' width='100' height='300' alt='screenshot'>
+</kbd>
+</p>
 
-![](src/assets/images/app_screen_shot/Screenshot4.jpg)
+<p align='center'>
+<kbd>
+<img src='src/assets/images/app_screen_shot/Screenshot5.jpg' width='100' height='300' alt='screenshot'>
+</kbd>
+</p>
 
-![](src/assets/images/app_screen_shot/Screenshot5.jpg)
+<p align='center'>
+<kbd>
+<img src='src/assets/images/app_screen_shot/Screenshot6.jpg' width='100' height='300' alt='screenshot'>
+</kbd>
+</p>
 
-![](src/assets/images/app_screen_shot/Screenshot6.jpg)
-
-![](src/assets/images/app_screen_shot/Screenshot7.jpg)
+<p align='center'>
+<kbd>
+<img src='src/assets/images/app_screen_shot/Screenshot7.jpg' width='100' height='300' alt='screenshot'>
+</kbd>
+</p>
