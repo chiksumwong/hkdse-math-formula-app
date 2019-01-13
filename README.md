@@ -29,44 +29,35 @@ npm run clean
 For detailed instructions, see https://github.com/nativescript-vue/vue-cli-template
 
 ## App Screen Shot
-<p align='center'>
+<p>
 <kbd>
-<img src='src/assets/images/app_screen_shot/Screenshot1.jpg' width='100' height='300' alt='screenshot'>
+<img src='src/assets/images/app_screen_shot/Screenshot1.jpg' width='150' height='300' alt='screenshot'>
+</kbd>
+
+<kbd>
+<img src='src/assets/images/app_screen_shot/Screenshot2.jpg' width='150' height='300' alt='screenshot'>
+</kbd>
+
+<kbd>
+<img src='src/assets/images/app_screen_shot/Screenshot3.jpg' width='150' height='300' alt='screenshot'>
+</kbd>
+
+<kbd>
+<img src='src/assets/images/app_screen_shot/Screenshot4.jpg' width='150' height='300' alt='screenshot'>
+</kbd>
+
+<kbd>
+<img src='src/assets/images/app_screen_shot/Screenshot5.jpg' width='150' height='300' alt='screenshot'>
 </kbd>
 </p>
 
-<p align='center'>
+<p>
 <kbd>
-<img src='src/assets/images/app_screen_shot/Screenshot2.jpg' width='100' height='300' alt='screenshot'>
+<img src='src/assets/images/app_screen_shot/Screenshot6.jpg' width='150' height='300' alt='screenshot'>
+</kbd>
+
+<kbd>
+<img src='src/assets/images/app_screen_shot/Screenshot7.jpg' width='150' height='300' alt='screenshot'>
 </kbd>
 </p>
 
-<p align='center'>
-<kbd>
-<img src='src/assets/images/app_screen_shot/Screenshot3.jpg' width='100' height='300' alt='screenshot'>
-</kbd>
-</p>
-
-<p align='center'>
-<kbd>
-<img src='src/assets/images/app_screen_shot/Screenshot4.jpg' width='100' height='300' alt='screenshot'>
-</kbd>
-</p>
-
-<p align='center'>
-<kbd>
-<img src='src/assets/images/app_screen_shot/Screenshot5.jpg' width='100' height='300' alt='screenshot'>
-</kbd>
-</p>
-
-<p align='center'>
-<kbd>
-<img src='src/assets/images/app_screen_shot/Screenshot6.jpg' width='100' height='300' alt='screenshot'>
-</kbd>
-</p>
-
-<p align='center'>
-<kbd>
-<img src='src/assets/images/app_screen_shot/Screenshot7.jpg' width='100' height='300' alt='screenshot'>
-</kbd>
-</p>
