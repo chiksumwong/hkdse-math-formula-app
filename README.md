@@ -29,10 +29,19 @@ npm run clean
 For detailed instructions, see https://github.com/nativescript-vue/vue-cli-template
 
 ## App Screen Shot
-![](src/assets/images/app_screen_shot/Screenshot1.jpg)
-![](src/assets/images/app_screen_shot/Screenshot2.jpg)
+<p align='center'>
+<img src='src/assets/images/app_screen_shot/Screenshot1.jpg' width='100' height='300' alt='screenshot'>
+</p>
+
+
+![](src/assets/images/app_screen_shot/Screenshot2.jpg =100x20)
+
 ![](src/assets/images/app_screen_shot/Screenshot3.jpg)
+
 ![](src/assets/images/app_screen_shot/Screenshot4.jpg)
+
 ![](src/assets/images/app_screen_shot/Screenshot5.jpg)
+
 ![](src/assets/images/app_screen_shot/Screenshot6.jpg)
+
 ![](src/assets/images/app_screen_shot/Screenshot7.jpg)
